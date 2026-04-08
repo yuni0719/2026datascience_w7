@@ -23,7 +23,7 @@
 * **下載位址**：請至本儲存庫右側 **[Releases]** 區塊下載 `.apk` 安裝檔。
 
 ### 3. 客戶同步管理後台 
-* **管理網址**：`https://github.com/yuni0719/miss-chang-shop`
+* **管理網址**：`https://github.com/yuni0719/2026datascience_w7`
 * **後台帳密**：為確保資安，實際交付採 **GitHub Collaborators** 模式。作業演示請參考 README 說明。
 * **操作邏輯**：客戶登入後編輯 `index.html` 內的圖片路徑或售價，存檔後網站與 APK 將自動完成內容同步。
 
